@@ -124,8 +124,8 @@ a {
 
 .banner-logo{position: relative;margin-bottom: 45px;}
 .banner-logo h3{font-size: 30px;letter-spacing: 3px;color: #ffffff;font-family: "Poppins";text-transform: uppercase;margin-top: -38px;margin-left: 74px;font-weight: normal;}
-.homebanner-content h1{font-size: 41px;letter-spacing: 2px;line-height: 60px;color: #222222;font-weight: 700;font-family: "Poppins"; margin-bottom: 30px; text-transform: uppercase;}
-.homebanner-content p{font-size: 18px;letter-spacing: 0.5px;line-height: 42px;color: #333333;font-weight: 500;font-family: "Poppins";margin-bottom: 30px;}
+.homebanner-content h1{font-size: 41px;letter-spacing: 2px;line-height: 60px;color: #ffffff;font-weight: 700;font-family: "Poppins"; margin-bottom: 30px; text-transform: uppercase;}
+.homebanner-content p{font-size: 18px;letter-spacing: 0.5px;line-height: 42px;color: #ffffff;font-weight: 500;font-family: "Poppins";margin-bottom: 30px;}
 .ban-btn a{display: inline-block; margin-right: 10px;}
 
 .banner-right{margin-bottom: 0px;}
